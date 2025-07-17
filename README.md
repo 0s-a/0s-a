@@ -45,9 +45,9 @@
 ---
 
 ### 📂 Featured Projects
-
+<!--
 - 🔧 [Project Title](https://github.com/your-username/project-name): Short
-
+-->
 <!--
 **0s-a/0s-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
