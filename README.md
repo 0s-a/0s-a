@@ -16,9 +16,9 @@
   - **Linux systems and DevOps basics**
 - 👯 I’m open to collaborating on open-source projects, internships, or research
 - 📫 How to reach me:
-  [your.email@example.com] |[LinkedIn]
-- (https://linkedin.com/in/yourprofile)
-
+  [your.email@example.com]
+<!--|[LinkedIn](https://linkedin.com/in/yourprofile)
+-->
 ---
 
 ### 🛠️ Technologies & Tools
