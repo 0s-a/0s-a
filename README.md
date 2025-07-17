@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Husam Al-Rsass</h1>
 <h3 align="center">A Computer Science Student passionate about building meaningful software</h3>
 
 ---
@@ -15,7 +15,9 @@
   - **Web Development & APIs**
   - **Linux systems and DevOps basics**
 - 👯 I’m open to collaborating on open-source projects, internships, or research
-- 📫 How to reach me: [your.email@example.com] | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 How to reach me:
+  [your.email@example.com] |[LinkedIn]
+- (https://linkedin.com/in/yourprofile)
 
 ---
 
