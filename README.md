@@ -38,8 +38,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0s-a&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=0s-a&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Streak stats"/>
 </p>
 
 ---
