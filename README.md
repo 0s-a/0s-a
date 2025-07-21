@@ -3,6 +3,10 @@
 
 ---
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0s-a&label=Profile%20views&color=0e75b6&style=flat" alt="miladicode" /> </p>
+
+
 ### 👨‍💻 About Me
 
 - 🎓 I’m currently pursuing a Bachelor's degree in **Computer Science**
